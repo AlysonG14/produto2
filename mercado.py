@@ -1,3 +1,5 @@
+print("Hello World")
+
 nome = input("Digite o primeiro nome: ")
 CPF = input("Digite o seu CPF: ")
 
