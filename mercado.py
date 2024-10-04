@@ -1,10 +1,10 @@
-print("Hello World")
+
 
 nome = input("Digite o primeiro nome: ")
 CPF = input("Digite o seu CPF: ")
 
-print("-----------Mercadinho do Gás--------------")
-print("Olá cliente, seja bem-vindo ao nosso mercadinho")
+print("-----------Mercadin do Ali--------------")
+print("Olá cliente, chega mais com nois!!!")
 print('Temos duas categorias: '
       'A - Frutas\n'
       'B - Alimentação')
@@ -12,7 +12,7 @@ print('Temos duas categorias: '
 carrinho = {}
 escolha_alimentacao = ""
 escolha_frutas = ""
-desejo = input("O que você deseja? (Digite A para Frutas ou B para Alimentação): ")
+desejo = input("O que você quer véiinho? (Digite A para Frutas ou B para Alimentação): ")
 
 frutas = {"maçã": 2.00, 'banana': 3.00, 'laranja': 4.00, 'melancia': 10.00, 'abacaxi': 8.00}
 alimentacao = {'arroz': 10.00, 'feijao': 8.00, 'macarrão': 5.00, 'leite': 4.00, 'carne': 17.00}
